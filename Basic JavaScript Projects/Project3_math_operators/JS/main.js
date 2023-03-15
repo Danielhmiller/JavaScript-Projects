@@ -46,3 +46,4 @@ window.alert(Math.random()); //pop up box with a random number between 0 - 1
 window.alert(Math.random()  * 100); //pop up box with a random number between 0 - 100
 
 document.getElementById("pi").innerHTML = Math.PI; //solves for PI 3.14 etc
+
