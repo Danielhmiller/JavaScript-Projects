@@ -19,3 +19,6 @@ document.write(AFriend); // creating a variable and then calling that same varia
 
 4+4;
 document.write(4+4); //addition
+
+
+
